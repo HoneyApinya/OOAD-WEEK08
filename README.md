@@ -3,13 +3,13 @@
 ## ส่งการบ้านเรื่อง use case Diagram 5 รูป
 
 * การดื่มเครื่องดื่ม : 1
-[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000)
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000 " target="_blank")
 
 
 
 
 * การเลือกกินอาหาร : 2
-[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL3D2eCm3BxdARxZFBW7s66u2SFJBZv1PhEsJ5kfyR2tNuS8KqOWX7n_8TMad7GUUhgCOoyeo_ACGpkoTQBgYytwbhmOTCvtBmbRgE7XCIShgQ0hXrp_9HliHrDpYhg6Sy-c80fH1SbRfuXFB64dD08_ePc3JU_ZZhEudD0wGGmmNdJ7MCs1UyojvZxc0oUIOF1b4b6Lv_oF3m00)
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL3D2eCm3BxdARxZFBW7s66u2SFJBZv1PhEsJ5kfyR2tNuS8KqOWX7n_8TMad7GUUhgCOoyeo_ACGpkoTQBgYytwbhmOTCvtBmbRgE7XCIShgQ0hXrp_9HliHrDpYhg6Sy-c80fH1SbRfuXFB64dD08_ePc3JU_ZZhEudD0wGGmmNdJ7MCs1UyojvZxc0oUIOF1b4b6Lv_oF3m00 " target="_blank")
 
 
 
