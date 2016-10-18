@@ -3,7 +3,7 @@
 ## ส่งการบ้านเรื่อง use case Diagram 5 รูป
 
 * การดื่มเครื่องดื่ม : 1
-[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000 " target="_blank")
+[![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000 " target="_blank")
 
 
 
