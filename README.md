@@ -1,8 +1,15 @@
 # OOAD-WEEK08
 
+## ส่งการบ้านเรื่อง use case Diagram 5 รูป
+
+* การดื่มเครื่องดื่ม : 1
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000)
+
+
+
+
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
-
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0eq2FGEQul8/0.jpg)](http://www.youtube.com/watch?v=0eq2FGEQul8 "บรรยายเรื่อง UML โดย อ.ปานใจ  " target="_blank") 
 
 * เรียนการออกแบบโปรแกรมด้วย UML กับโปรเอิ๊ก ตอนที่ 1 การเขียน Requirement Card และ Use case   
