@@ -19,6 +19,9 @@
 
 ![](http://www.plantuml.com/plantuml/img/NOz12W8n34NtEKMMkkWDHEO0xZn1Q6Edj9CEQGOHyUvEXOAwo__lyI5JCrBRbWA5RuPMKLES3KDIzfQgGCj9Lb9QS2MVAVBL7eMnOo1lLR7P5bX6CYO_iq8NIEAkNfXKaaHy0WuPdJlZeNHo_6-pr7lX4BcJhuGdvyOyTlIvVsfumSGIzd_U)
 
+* การแต่งกาย : 5
+
+![](http://www.plantuml.com/plantuml/img/ROyn3i8m34Ltdy8Z3Bq2giI6s3Y1bPWa94sYs0m8SNVIqW4LDklzzx_aKPIQtgS4YQ-AMh05vnLjQ6mqb0mIGwxKQC9A9fBZYpuIunm36IqDpo5RMkzJ4QumXvHTruv5-ZhZ4_3ZuJ0SS2S-D9Nz1iP_q1TUsBAyRN_16rF-5TSol63aRFkVRm00)
 
 
 
