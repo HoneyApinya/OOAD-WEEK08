@@ -21,7 +21,7 @@
 
 * การแต่งกาย : 5
 
-![](http://www.plantuml.com/plantuml/img/ROyn3i8m34Ltdy8Z3Bq2giI6s3Y1bPWa94sYs0m8SNVIqW4LDklzzx_aKPIQtgS4YQ-AMh05vnLjQ6mqb0mIGwxKQC9A9fBZYpuIunm36IqDpo5RMkzJ4QumXvHTruv5-ZhZ4_3ZuJ0SS2S-D9Nz1iP_q1TUsBAyRN_16rF-5TSol63aRFkVRm00)
+![](http://www.plantuml.com/plantuml/img/RP2z3e903CVtFaL77V0170o9cz79mRc10YVGahio6EExUnmCYcxDx__HfdamyZRs7NHS6PgYTtLZM3hFXJaL2AsJWJprE53HKirNUtICamnKc7eyEobfcKyQU00GDSRKgDNCS8yN5jnzIoaQfPlsIPnQIUhOVzGGps9y0YwkB3lW9ZJEMzYkOFiFDig9pUjNwGzuPv9VunA65-GiPNpG6m00)
 
 
 
