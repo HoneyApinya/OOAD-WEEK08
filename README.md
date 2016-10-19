@@ -12,12 +12,18 @@
 ![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL3D2eCm3BxdARxZFBW7s66u2SFJBZv1PhEsJ5kfyR2tNuS8KqOWX7n_8TMad7GUUhgCOoyeo_ACGpkoTQBgYytwbhmOTCvtBmbRgE7XCIShgQ0hXrp_9HliHrDpYhg6Sy-c80fH1SbRfuXFB64dD08_ePc3JU_ZZhEudD0wGGmmNdJ7MCs1UyojvZxc0oUIOF1b4b6Lv_oF3m00 " target="_blank")
 
 * การใช้โทรศัพท์ : 3
+
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuVBBpyzJqDMrKz18Jip9qKJYfoVcfYBpY_EJCnDHLEIc5XSdfWCLSJcavgK0JGC0)
 
+* การเรียนการสอน : 4
+
+![](http://www.plantuml.com/plantuml/img/NOz12W8n34NtEKMMkkWDHEO0xZn1Q6Edj9CEQGOHyUvEXOAwo__lyI5JCrBRbWA5RuPMKLES3KDIzfQgGCj9Lb9QS2MVAVBL7eMnOo1lLR7P5bX6CYO_iq8NIEAkNfXKaaHy0WuPdJlZeNHo_6-pr7lX4BcJhuGdvyOyTlIvVsfumSGIzd_U)
 
 
 
-*
+
+
+
 
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
