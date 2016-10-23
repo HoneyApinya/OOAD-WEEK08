@@ -50,7 +50,14 @@ end note
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuVBBpyzJqDMrKz18Jip9qKJYfoVcfYBpY_EJCnDHLEIc5XSdfWCLSJcavgK0JGC0)
 
 ```
+@startuml
 
+Noon --> (call)
+Noon --> (game)
+Noon --> (social)
+Noon --> (message)
+
+@enduml
 ```
 * การเรียนการสอน : 4
 
