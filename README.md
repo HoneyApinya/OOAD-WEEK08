@@ -64,7 +64,18 @@ Noon --> (message)
 ![](http://www.plantuml.com/plantuml/img/NOz12W8n34NtEKMMkkWDHEO0xZn1Q6Edj9CEQGOHyUvEXOAwo__lyI5JCrBRbWA5RuPMKLES3KDIzfQgGCj9Lb9QS2MVAVBL7eMnOo1lLR7P5bX6CYO_iq8NIEAkNfXKaaHy0WuPdJlZeNHo_6-pr7lX4BcJhuGdvyOyTlIvVsfumSGIzd_U)
 
 ```
-
+@startuml
+left to right direction
+skinparam packageStyle rect
+actor student
+actor teacher
+rectangle Learning {
+  student --> (learn)
+  student --> (knowledge)
+  (knowledge) <-- teacher
+  (teach) <-- teacher
+}
+@enduml
 ```
 
 * การแต่งกาย : 5
