@@ -83,7 +83,25 @@ rectangle Learning {
 ![](http://www.plantuml.com/plantuml/img/RP2z3e903CVtFaL77V0170o9cz79mRc10YVGahio6EExUnmCYcxDx__HfdamyZRs7NHS6PgYTtLZM3hFXJaL2AsJWJprE53HKirNUtICamnKc7eyEobfcKyQU00GDSRKgDNCS8yN5jnzIoaQfPlsIPnQIUhOVzGGps9y0YwkB3lW9ZJEMzYkOFiFDig9pUjNwGzuPv9VunA65-GiPNpG6m00)
 
 ```
+@startuml
+left to right direction
+skinparam packageStyle rect
 
+actor Josep
+actor Linda
+rectangle costume {
+  Josep --> (jeans)
+  Josep --> (shoes)
+  Josep --> (shirts)
+  Linda --> (shoes)
+  Linda --> (shirts)
+  Linda --> (skirts)
+  
+}
+note left of Josep : Men .
+note left of Linda : Women .
+
+@enduml
 ```
 
 
