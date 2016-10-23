@@ -21,19 +21,52 @@ Fern --> (Fruit juice) : Drink
 * การเลือกกินอาหาร : 2
 
 ![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL3D2eCm3BxdARxZFBW7s66u2SFJBZv1PhEsJ5kfyR2tNuS8KqOWX7n_8TMad7GUUhgCOoyeo_ACGpkoTQBgYytwbhmOTCvtBmbRgE7XCIShgQ0hXrp_9HliHrDpYhg6Sy-c80fH1SbRfuXFB64dD08_ePc3JU_ZZhEudD0wGGmmNdJ7MCs1UyojvZxc0oUIOF1b4b6Lv_oF3m00 " target="_blank")
+```
+@startuml
+
+Apple ---> (Spaghetti)
+Apple ---> (Hamburger)
+Apple ---> (Fried Chicken)
+
+Banana ---> (Hamburger)
+Banana ---> (Fried Chicken)
+
+Carot ---> (Salad)
+
+note right of Apple : He is hungry.
+note right of Carot : She on diet.
+
+note right of (Salad)
+  No
+  Calories
+end note
+
+@enduml
+```
+
 
 * การใช้โทรศัพท์ : 3
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuVBBpyzJqDMrKz18Jip9qKJYfoVcfYBpY_EJCnDHLEIc5XSdfWCLSJcavgK0JGC0)
 
+```
+
+```
 * การเรียนการสอน : 4
 
 ![](http://www.plantuml.com/plantuml/img/NOz12W8n34NtEKMMkkWDHEO0xZn1Q6Edj9CEQGOHyUvEXOAwo__lyI5JCrBRbWA5RuPMKLES3KDIzfQgGCj9Lb9QS2MVAVBL7eMnOo1lLR7P5bX6CYO_iq8NIEAkNfXKaaHy0WuPdJlZeNHo_6-pr7lX4BcJhuGdvyOyTlIvVsfumSGIzd_U)
+
+```
+
+```
 
 * การแต่งกาย : 5
 
 ![](http://www.plantuml.com/plantuml/img/RP2z3e903CVtFaL77V0170o9cz79mRc10YVGahio6EExUnmCYcxDx__HfdamyZRs7NHS6PgYTtLZM3hFXJaL2AsJWJprE53HKirNUtICamnKc7eyEobfcKyQU00GDSRKgDNCS8yN5jnzIoaQfPlsIPnQIUhOVzGGps9y0YwkB3lW9ZJEMzYkOFiFDig9pUjNwGzuPv9VunA65-GiPNpG6m00)
 
+```
+
+```
 
 
 
