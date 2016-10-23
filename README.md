@@ -6,6 +6,17 @@
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBooCzBhLJGrRLJq73EJqvqpiz9r5ImKd0foipBvh9AIotAiuB8kXMLPfOeP9Lc9gTYL-2SdvQM2fA3IldbvqEayCh0hOJ8SN4vfEQb05q60000 " target="_blank")
 
+ ```
+@startuml
+
+Honey --> (CocaCola) : Drink
+Noon -->(CocaCola) : Drink
+Noon --> (Coffee) : Drink
+Fern --> (Coffee) : Drink
+Fern --> (Fruit juice) : Drink
+@enduml
+ ```
+
 
 * การเลือกกินอาหาร : 2
 
